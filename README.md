@@ -6,4 +6,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsSoull&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"> <a href="https://soull.dev/discord"><img src="https://lanyard.cnrad.dev/api/712192622252523561"/></a> </p>
+<p align="center"> <img src="https://lanyard.cnrad.dev/api/712192622252523561"/></a> </p>
