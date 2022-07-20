@@ -1,4 +1,4 @@
-- 👋 Hey there, I’m @Soull
+- 👋 Hey there, I'm Salvijus, also known as Soull in the depths of the internet, a 17 year old freelancer from Lithuania.
 - 👀 Currently a student working with Python, C#, Java languages. Kinda Unity aswell lmao
 - 📫 You can reach me on Discord: Soull#1904
 
